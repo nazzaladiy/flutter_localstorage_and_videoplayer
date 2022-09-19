@@ -84,13 +84,13 @@ class _HomeState extends State<Home> {
 ````
 | Menekan Button Upload Foto | Memilih Media Upload|
 |-|-|
-|![screenshot](images/2.png)|![screenshot](images/3.png)|
+|![screenshot](images/2.PNG)|![screenshot](images/3.PNG)|
 
 ### 2. Video Player Plugin 
 
 • Tambahkan dependency video_player
 
-![screenshot](images/4.png)
+![screenshot](images/4.PNG)
 
 • Tambahkan permission untuk melakukan pemutaran video dari internet
 
@@ -224,4 +224,4 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
 
 | Menekan Button Upload Foto | Memilih Media Upload|
 |-|-|
-|![screenshot](images/5.png)|![screenshot](images/6.png)|
+|![screenshot](images/5.PNG)|![screenshot](images/6.PNG)|
